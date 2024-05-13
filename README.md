@@ -1,3 +1,4 @@
+This is the Web-App in which we have the latest location of ships and location of all the ports. We can search for the ship by ship name and can get last 7 days location of that ship.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
